@@ -1,6 +1,6 @@
 /// SPDX-License-Identifier: UNLICENSED
 /// @title Optimization Contract
-/// @author: dd0sxx
+/// @author: Rob Hitchens, adapted by dd0sxx
 /// difficulty: 6/10
 
 /// execute the following function calls:
