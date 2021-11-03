@@ -1,8 +1,8 @@
 /// SPDX-License-Identifier: UNLICENSED
 /// @title Optimization Contract
 /// @author: dd0sxx
-
 /// difficulty: 3/10
+
 /// optimize this contract:
 
 pragma solidity ^0.8.0;
